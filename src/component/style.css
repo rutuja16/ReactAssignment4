@@ -1,0 +1,52 @@
+.flexData{
+    display: block;
+    padding: 0% 3%;
+}
+.flexData h1{
+    display: inline-block;
+    margin-right: 60%;
+    
+}
+.flexData button{
+    display: inline-block;
+    padding: 1%;
+    width:20%;
+    font-size: 20px;
+    border-radius: 30px;
+}
+.flexData button:hover{
+    background-color: aqua;
+}
+.tableData{
+    width:90%;
+    margin:3% 5% 1%;
+}
+form{
+    width:90%;
+    padding: 1%;
+    margin:3% 5% 1%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+form input{
+    width:40%;
+    height:6vh;
+    padding: 1%;
+    margin:1% 5% 7% 2%;
+    border-radius: 15px;
+}
+.btnBlock{
+    margin-left: 30%;
+}
+.btnBlock button{
+    padding: 2% 7%;
+    border-radius: 30px;
+    margin-left: 4%;
+    font-size: 20px;
+}
+.btnBLock button:hover{
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(0deg,rgb(192, 222, 234),rgb(160, 220, 232),rgb(248, 225, 229),pink);
+    height:100vh;
+}
+.Navbar{
+    width:100%;
+    padding: 2px;
+    background-color: rgb(6, 6, 164);
+    color:rgb(0, 183, 255);
+    color:white
+}
+ul{
+    display:inline-flex;
+    list-style-type: none;
+
+}
+li{
+    font-size: 25px;
+    margin:0% 2%;
+    color: white;
+    text-decoration: none;
+    width:30vw;
+    
+    text-align: center;
+    padding: 5px;
+}
+
