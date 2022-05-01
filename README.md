@@ -1,4 +1,5 @@
-URL: React App (deluxe-cassata-339711.netlify.app)
+https://deluxe-cassata-339711.netlify.app/
+
 
 # Getting Started with Create React App
 
